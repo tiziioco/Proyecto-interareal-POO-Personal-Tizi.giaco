@@ -1,0 +1,11 @@
+# Archivos de configuración del IDE y compilación
+.settings/
+.classpath
+.project
+.metadata/
+bin/
+target/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
